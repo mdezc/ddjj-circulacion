@@ -58,11 +58,11 @@ button#upload {
   height: 2px;
   background-color: gray;
 }
-#open-source {
+.open-source {
   text-align: right;
 }
 
-#open-source a {
+.open-source a {
   color: gray;
   font-size: 12px;
   margin-top: 5px;
