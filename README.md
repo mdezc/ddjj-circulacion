@@ -3,15 +3,14 @@
 
 <h3>Pasos para utilizarlo 👇</h3>
 <p>0. Instalar <a href="https://chrome.google.com/webstore/detail/ipadaoecfbggpijfghpflabbjenkicje/" target="_blank">esta extensión de Google Chrome</a></p>
-<p>1. Crear una copia de este <a href="https://bit.ly/348rWZf" target="_blank">Google Doc</a></p>
-<p>2. Completar las columnas (1 fila por persona) con el formato indicado (⚠️ No usar ",")</p>
+<p>Pasos a seguir 👇</p>
+<p>1. Creá una copia de este <a href="https://bit.ly/348rWZf" target="_blank">CSV</a></p>
+<p>2. Completar las columnas con el formato indicado</p>
 <p>3. Exportarlo cómo CSV</p>
-<p>4. Cargar Excel</p>
-<p>5. Abrir/ir a la <a target="_blank" href="https://formulario-ddjj.argentina.gob.ar/">web oficial</a></p>
-<p>6. 'Completar próximo certificado' rellenará la información para cada línea del Excel cargado (de a 1 por vez)</p>
-<p>7. Validar el Re-Captcha, marcar motivo y solicitar certificado</p>
-<p>8. Repetir pasos 5 y 6 hasta terminar</p>
-<br>
+<p>4. Abrir <a target="_blank" href="https://formulario-ddjj.argentina.gob.ar/">formulario DDJJ GBA Categoria 8</a></p>
+<p>5. 'Volcar CSV en el formulario' rellenará la información. ⚠️ No usar comas (",") en los campos</p>
+<p>7. Validar el Re-Captcha!</p>
+<p id="open-source"><small>👉 <a href="https://github.com/sbuffose/ddjj-circulacion" target="_blank">Open Source | MIT</a></small></p><br>
 <h3>Ayuda</h3>
 <p>¿Cómo realizar una copia de Google Docs? <small><a href="https://www.youtube.com/watch?v=2BoNU4qmiuw" target="_blank">Ver video explicativo</a></small></p>
 <p>¿Cómo exportar a CSV de Google Sheets? <small><a href="http://www.youtube.com/watch?v=hohwVEbutAE&t=1m22s" target="_blank">Ver video explicativo</a></small></p>

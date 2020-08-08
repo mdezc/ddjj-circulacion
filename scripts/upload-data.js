@@ -7,7 +7,6 @@ fileChooser.addEventListener('change', function () {
   reader.onload = function () {
     const allData = reader.result;
     const rows = allData.split(/\r\n|\n|↵/);
-    const headers = rows[0].split(',');
     rows.splice(1, rows.length - 1).forEach((row) => {
       const data = row.split(',');
       certificates.push(data)
